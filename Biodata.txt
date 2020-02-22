@@ -1,0 +1,3 @@
+mengapa git penting
+
+git -> version control system
